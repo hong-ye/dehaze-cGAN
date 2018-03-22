@@ -1,5 +1,5 @@
 # dehaze-cGAN
-Run in Torch7 paltform.
+Run in Torch7 platform.
 
 Training:
 
