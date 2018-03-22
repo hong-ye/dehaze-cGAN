@@ -9,4 +9,4 @@ Testing:
 
 DATA_ROOT=./datasets phase=test_syn th test.lua
 
-Sythentic dataset is avialable on Baidu Pan
+Sythentic dataset is available on Baidu Pan
