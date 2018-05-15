@@ -13,5 +13,6 @@ DATA_ROOT=./datasets th train.lua
 
 Sythentic dataset is available on Baidu Pan
 https://pan.baidu.com/s/12HN56RwCYFOQXdKiNj07sQ    Password：3joe
+
 Trained model is available on Baidu Pan
 https://pan.baidu.com/s/1k1DBDpV1fh57BaXLiWQhHA    Password：wuig
