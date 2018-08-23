@@ -5,11 +5,11 @@ Because the trained models may be produce some different effects in varying plat
 
 Testing:
 
-DATA_ROOT=./datasets phase=test_syn th test.lua
+th test.lua
 
 Training:
 
-DATA_ROOT=./datasets th train.lua
+th train.lua
 
 #Sythentic dataset is available on Baidu Pan
 https://pan.baidu.com/s/12HN56RwCYFOQXdKiNj07sQ    Password：3joe
