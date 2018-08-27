@@ -12,5 +12,5 @@ Training:
 th train.lua
 
 #Trained model is available on Baidu Pan
-https://pan.baidu.com/s/1k1DBDpV1fh57BaXLiWQhHA    Password：wuig
+
 
