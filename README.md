@@ -1,7 +1,7 @@
 # dehaze-cGAN
 Run in Torch7 platform.
 
-I'm very appreciative of your attention. Because the trained models may be produce some different effects in varying platforms and computers, I strongly suggest that you can adopt our trained model when restoring real world haze images. If you repeate our works on other platforms (e.g. Pytorch), please referrencing https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix and finishing other changes.
+I'm very appreciative of your attention. Because the trained models may be produce some different effects in varying platforms and computers, I strongly suggest that you can adopt our trained model when restoring real world haze images. If you want to repeate our works on other platforms (e.g. Pytorch), please referrencing https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix and finishing other changes.
 
 Testing:
 
