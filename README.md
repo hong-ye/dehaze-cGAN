@@ -1,5 +1,8 @@
 # dehaze-cGAN
-Run in Torch7 platform.
+
+Thank you for your attention!
+
+The code runns in Torch7 platform.
 
 Testing:
 th test.lua
@@ -23,3 +26,5 @@ th train.lua
 #Trained model3 is the model in our paper.
 
 链接: https://pan.baidu.com/s/1tqISt9mdkEjospqOUfF6qw 提取码: xw4m
+
+We will release a pytorch version in near future. 
