@@ -9,7 +9,7 @@ th train.lua
 
 #Trained model is available on Baidu Pan
 
-链接：https://pan.baidu.com/s/1Xk6eLyNG7QSrvc9-P6r4RQ 密码：uagt
+链接: https://pan.baidu.com/s/14gP1tc6Jq0fWO-ake1cEPQ 提取码: afea
 
 #Trained model on the dataset with random noise is also available on Baidu Pan
 
@@ -17,5 +17,9 @@ th train.lua
 
 #Trained model2 is Lightweight model.
 
+链接: https://pan.baidu.com/s/1eARU7fcGtrSeE_tmfQjZCw 提取码: di3e
+
 
 #Trained model3 is the model in our paper.
+
+链接: https://pan.baidu.com/s/1tqISt9mdkEjospqOUfF6qw 提取码: xw4m
