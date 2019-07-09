@@ -15,3 +15,7 @@ th train.lua
 
 链接：https://pan.baidu.com/s/12lMkYjUsa2wX_muZKjVCHQ 密码：np71
 
+#Trained model2 is Lightweight model.
+
+
+#Trained model3 is the model in our paper.
