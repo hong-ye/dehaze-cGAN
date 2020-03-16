@@ -2,7 +2,8 @@
 
 Thank you for your attention!
 
-The code runns in Torch7 platform.
+The code runns in Torch7 platform. 
+Our operating system is Ubuntu16.04 and cuda8.0.
 
 Testing:
 th test.lua
