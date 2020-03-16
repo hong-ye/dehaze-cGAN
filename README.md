@@ -28,3 +28,5 @@ th train.lua
 链接: https://pan.baidu.com/s/1tqISt9mdkEjospqOUfF6qw 提取码: xw4m
 
 We will release a pytorch version in near future. 
+
+If you have any questions, please email: lirunde94@163.com
