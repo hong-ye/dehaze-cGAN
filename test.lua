@@ -30,8 +30,8 @@ opt = {
     checkpoints_dir = './model', -- loads models from here
     results_dir='./results/',          -- saves results here
     which_epoch = '500',            -- which epoch to test? set to 'latest' to use latest cached model
-    output_wide = 640,
-    output_high = 480,
+    output_wide = 512,
+    output_high = 512,
 }
 
 for k,v in pairs(opt) do opt[k] = tonumber(os.getenv(k)) or os.getenv(k) or opt[k] end
